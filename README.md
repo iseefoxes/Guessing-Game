@@ -2,7 +2,7 @@
 
 A beginner-friendly Python command-line game where the player guesses a randomly generated number. Features multiple difficulty levels, input validation, guess tracking, and a halfway “give-up” option.
 
-[![Screenshot Placeholder](screenshots/example.png)](https://github.com/iseefoxes/Guessing-Game/tree/cbf471bff8a2e97567aaee258c445aab020ce328/Screenshots)
+[[![Screenshot Placeholder](screenshots/example.png)](https://github.com/iseefoxes/Guessing-Game/tree/cbf471bff8a2e97567aaee258c445aab020ce328/Screenshots)](https://github.com/iseefoxes/Guessing-Game/blob/cbf471bff8a2e97567aaee258c445aab020ce328/Screenshots/Screenshot%202026-03-08%20163418.png)
 
 ---
 
